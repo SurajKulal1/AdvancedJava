@@ -1,3 +1,5 @@
+// Q1b-2: Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
+
 package list_Operation;
 import java.util.*;
 public class RemoveColors {
