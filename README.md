@@ -15,6 +15,8 @@
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
    🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20003158.png)
 
+3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
+   🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20004927.png)
 
 
 
