@@ -24,3 +24,28 @@
 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
    🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20205624.png)
 
+---
+
+### 1c. Linked List Programs
+
+1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
+   🔗 [Output Screenshot]( https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20210845.png)
+
+2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
+   🔗 [Output Screenshot](Exp1-ListInterface/p7.png)
+
+3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
+   🔗 [Output Screenshot](Exp1-ListInterface/p8.png)
+
+4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
+   🔗 [Output Screenshot](Exp1-ListInterface/p9.png)
+
+5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
+   🔗 [Output Screenshot](Exp1-ListInterface/p10.png)
+
+---
+
+
+
+  
+
