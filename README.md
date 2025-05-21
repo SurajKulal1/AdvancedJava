@@ -18,5 +18,9 @@
 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
    🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20004927.png)
 
+4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
+   🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20204719.png)
 
+5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
+   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
 
