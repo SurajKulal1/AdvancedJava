@@ -35,7 +35,7 @@
    🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20211845.png)
 
 3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
-   🔗 [Output Screenshot](Exp1-ListInterface/p8.png)
+   🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/ReverseLinkedListIteration.png)
 
 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
    🔗 [Output Screenshot](Exp1-ListInterface/p9.png)
