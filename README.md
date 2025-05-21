@@ -22,5 +22,5 @@
    🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20204719.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
-   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
+   🔗 [Output Screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/Screenshot%202025-05-21%20205624.png)
 
