@@ -1,6 +1,9 @@
 // Java Program for verifying if a string contains only numeric characters
 // using user-defined function isNumeric()
 
+// Java Program for verifying if a string contains only numeric characters
+// using user-defined function isNumeric()
+
 package string_operations;
 import java.util.Scanner;
 public class CheckNumeric {
@@ -15,6 +18,7 @@ public class CheckNumeric {
                 return false;
             }
         }
+
         return true;
     }
     public static void main(String[] args) {
