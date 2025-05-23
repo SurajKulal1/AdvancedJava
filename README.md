@@ -34,7 +34,7 @@ Total Programs:28
 
   4.SubListColorsArrayList ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/ExtractSubList.png)
 
-  5.RemoveNthColorArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveNthColorArrayList.png)
+  5.DeleteNthColorArrayList ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/DeleteNthElement.png)
 
 ### 1c.LinkedList Programs
 
