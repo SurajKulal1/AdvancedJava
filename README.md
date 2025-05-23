@@ -32,7 +32,7 @@ Total Programs:28
 
   3.SortColorsArrayList ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/SortColors.png)
 
-  4.SubListColorsArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/SublistColorsArrayList.png)
+  4.SubListColorsArrayList ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/ExtractSubList.png)
 
   5.RemoveNthColorArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveNthColorArrayList.png)
 
