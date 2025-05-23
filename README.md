@@ -67,7 +67,7 @@ Total Programs:28
 
 2.SubstringCount ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/SubstringAppears.png)
 
-3.ReverseString ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/ReverseString.png)
+3.ReverseString ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/ReverseString.png)
 
 4.PalindromeChecker ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/PalindromeChecker.png)
 
