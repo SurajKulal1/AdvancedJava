@@ -102,7 +102,7 @@ Total Programs:28
 ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp5-Swing%20Program/JListExample.png)
 
 ### 5b.TabbedPaneExample 
-->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program2/TabbedPaneExample.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp5-Swing%20Program/TabbedPaneExample.png)
 
 ### 5c.CountryCapitalList 
 ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp5-Swing%20Program/CountryCapitalList.png)
