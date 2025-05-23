@@ -17,6 +17,9 @@ Total Programs:28
   
   ### 1a. ListInterfaceDemo
   [output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/listoperations1.png)
+
+
+  
   [output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/listoperations2.png)
 
 
