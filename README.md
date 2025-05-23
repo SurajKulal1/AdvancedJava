@@ -63,7 +63,7 @@ Total Programs:28
 
 ### 3b.String Exercise programs
 
-1.NullorWhitespaceCheck ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/NullOrWhitespaceCheck.png)
+1.NullorWhitespaceCheck ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/NullOrWhiteSpaceCheck.png)
 
 2.SubstringCount ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/SubstringCount.png)
 
