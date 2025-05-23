@@ -81,7 +81,7 @@ Total Programs:28
 
 8.NumericCheck ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/CheckNumeric.png)
 
-9.RandomStringGenerator ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/RandomStringGenerator.png)
+9.RandomStringGenerator ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/generateRandomString.png)
 
 10.WordCount ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/WordCount.png)
 
