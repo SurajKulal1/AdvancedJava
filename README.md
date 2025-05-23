@@ -113,19 +113,19 @@ Total Programs:28
 ---
 
 ### 6a.FactorialCalculatorDemo 
-->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/FactorialCalculatorDemo1.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/FactorialServlet.png)
 
-  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/FactorialCalculatorDemo2.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/FactorialServlet2.png)
 
 ### 6b.Cookieservlet 
-->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/CookieServlet/cookieservlet1.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/CookieServlet/cookieservlet1.jpg)
 
-  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/CookieServlet/cookieservlet2.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/CookieServlet/cookieservlet2.jpg)
 
 ### 6c.primenumber 
-->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/PrimeServlet/primenumber1.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/PrimeNumberServlet/PrimeServlet1.png)
 
-  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/PrimeServlet/primenumber2.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp6-Servlet%20Programs/PrimeNumberServlet/PrimeServlet2.png)
 
   ---
 
