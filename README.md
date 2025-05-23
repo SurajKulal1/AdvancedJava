@@ -28,7 +28,7 @@ Total Programs:28
   
   1.ColorSearchArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ColorSearchArrayList.png)
   
-  2.RemoveColorArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveColorsArrayList.png)
+  2.RemoveColorArrayList ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/RemoveColors.png)
 
   3.SortColorsArrayList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/SortColorsArrayList.png)
 
