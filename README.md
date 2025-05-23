@@ -42,7 +42,7 @@ Total Programs:28
 
   2.ReverseLiknedListIteration ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/ReverseLinkedListIteration.png)
 
-  3.InsertElementAtEnd ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/InsertElementAtEnd.png)
+  3.InsertElementAtEnd ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp1-ListInterface/InsertElementAtEnd.png)
 
   4.DisplayElementsWithPositions ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/DisplayElementsWithPositions.png)
 
