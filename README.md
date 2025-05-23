@@ -77,7 +77,7 @@ Total Programs:28
 
 6.CapitalizeEachWord ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/CapitalizeFirstLetter.png)
 
-7.TruncateString ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/TruncateString.png)
+7.TruncateString ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp3-String%20Programs/Truncate.png)
 
 8.NumericCheck ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/NumericCheck.png)
 
