@@ -94,7 +94,7 @@ Total Programs:28
 ->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp4-Swing%20Program/ButtonExample.png)
 
 ### 4c.ButtonWithImageExample 
-->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program1/ButtonWithImageExample.png)
+->[output screenshot](https://github.com/SurajKulal1/AdvancedJava/blob/main/Exp4-Swing%20Program/ButtonWithImage.png)
 
 ---
 
